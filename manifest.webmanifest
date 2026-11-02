@@ -1,0 +1,17 @@
+{
+  "name": "Bhagavad Gita – Universal Wisdom",
+  "short_name": "Gita Wisdom",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f2e9",
+  "theme_color": "#18382d",
+  "description": "Bhagavad Gita Sanskrit verses, translations and traditional commentaries.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
